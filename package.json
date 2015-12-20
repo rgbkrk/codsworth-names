@@ -1,6 +1,6 @@
 {
   "name": "codsworth-names",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Names Codsworth can say",
   "main": "index.js",
   "scripts": {
